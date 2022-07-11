@@ -1,0 +1,71 @@
+.cart {
+    width: 250px;
+    height: 400px;
+    background: #f6f5f5;
+    overflow: hidden;
+    /*border-top:5px;*/
+    /*border-left: 5px;*/
+    /*border-right: 5px;*/
+    /*border-bottom: 5px;*/
+
+
+}
+.fa-star{font-size: 40px;
+    color: #939493;
+    }
+.fa-location-dot{font-size:40px;
+    color:#939493;
+}
+.fa-fire{font-size:40px;color: #939493}
+
+.fa-earth-americas{font-size:40px;color: #939493}
+
+.icon{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f6f5f5;
+
+}
+
+.description
+    {text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+
+
+}
+.description>h3{
+    text-align: center;
+    color: red;
+}
+.button-box {
+    margin-top: 80px;
+    width: 250px;
+    height: 50px;
+    background: #f6f5f5;
+    text-align: center;
+
+
+}
+.container{
+    margin-top: 100px;
+    background:white;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: flex-start;
+
+
+
+}
+
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
